@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusayer&label=Profile%20views&color=0e75b6&style=flat" alt="nusayer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nusayer" alt="nusayer" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/nusayer_masud" target="blank"><img src="https://img.shields.io/twitter/follow/nusayer_masud?logo=twitter&style=for-the-badge" alt="nusayer_masud" /></a> </p>
 
 - 🌱 I’m currently learning **android development with java**
