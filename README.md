@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nusayer</h1>
+<h1 align="center">Hi 👋, I'm Nusayer 👨‍💻</h1>
 <h3 align="center">A passionate mobile application developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **android development with java**
