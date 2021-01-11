@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **android development with java**
 
-- 👨‍💻 All of my projects are available at [https://nusayer.github.io/](https://nusayer.github.io/)
+- 👨‍💻 All of my projects are available at [https://nusayer.github.io/project](https://nusayer.github.io/project/)
 
 - 💬 Ask me about **flutter, dart and java.**
 
