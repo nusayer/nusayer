@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nusayer 👨‍💻</h1>
-<h3 align="center">A passionate mobile application developer from Bangladesh</h3>
+<h3 align="center">Grad Student @ UManitoba</h3>
 
-- 🌱 I’m currently learning **android development with java**
+- 🧑‍🎓 I’m currently enrolled to MSc in Computer Science @ **University of Manitoba**
 
 - 👨‍💻 All of my projects are available at [https://nusayer.github.io/project](https://nusayer.github.io/project/)
 
@@ -10,8 +10,6 @@
 - 📫 How to reach me **nusayermasud@gmail.com**
 
 - 📄 Know about my experiences [https://nusayer.github.io/resume](https://nusayer.github.io/resume)
-
-- ⚡ Fun fact **I hate pizza!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
